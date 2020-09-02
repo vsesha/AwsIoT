@@ -1,0 +1,10 @@
+mode                = "both"
+host                = "ae68jwsnw186h-ats.iot.us-east-2.amazonaws.com"
+rootCAPath          = "/Users/vsesha/Backup/VasuBKUP/BkUp/AWS_IoT/GPS_ThingCert/cert/56c0e7bbce-certificate.pem.crt"
+certificatePath     = "/Users/vsesha/Backup/VasuBKUP/BkUp/AWS_IoT/GPS_ThingCert/cert/56c0e7bbce-certificate.pem.crt"
+privateKeyPath      = "/Users/vsesha/Backup/VasuBKUP/BkUp/AWS_IoT/GPS_ThingCert/cert/56c0e7bbce-private.pem.key"
+useWebsocket        = False
+clientId            = "GPSThingClient1"
+topic               = "GPSTopic1"
+message             = "First msg from PythonClient"
+port                = ""

@@ -39,10 +39,6 @@ def customSubackCallback(mid, data):
     print("++++++++++++++\n\n")
 
 
-
-
-
-
 #host                =  "arn:aws:iot:us-east-2:440497887274:thing/GPSDeviceThing"
 host                = "ae68jwsnw186h-ats.iot.us-east-2.amazonaws.com"
 rootCAPath          = "/Users/vsesha/Backup/VasuBKUP/BkUp/AWS_IoT/GPS_ThingCert/cert/56c0e7bbce-certificate.pem.crt"
